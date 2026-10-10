@@ -54,7 +54,7 @@ Each step matches a section of the tutorial.
 npm ci
 npm test                        # unit tests
 
-npm run db:up                   # Postgres 16 on localhost:5432
+npm run db:up                   # Postgres 18 on localhost:5432
 npm run test:integration        # integration tests
 npm run db:down
 ```
