@@ -1,7 +1,7 @@
 {
   "name": "smarter-testing-ecommerce",
   "version": "1.0.0",
-  "description": "Demo e-commerce API for the CircleCI Smarter Testing tutorial: test impact analysis and dynamic test splitting with Jest",
+  "description": "Demo e-commerce API for the CircleCI Smarter Testing tutorial: test impact analysis and auto rerun with Jest",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
